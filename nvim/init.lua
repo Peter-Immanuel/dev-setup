@@ -6,4 +6,7 @@ require("bemshima.plugins.comment")
 require("bemshima.plugins.nvim-tree")
 require("bemshima.plugins.lualine")
 require("bemshima.plugins.telescope")
-
+require("bemshima.plugins.nvim-cmp")
+require("bemshima.plugins.lsp.mason")
+require("bemshima.plugins.lsp.lspsaga")
+require("bemshima.plugins.lsp.lspconfig")
