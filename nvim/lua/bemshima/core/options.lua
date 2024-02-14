@@ -14,6 +14,9 @@ opt.autoindent = true
 
 -- line wrapping
 opt.wrap = false
+opt.sidescroll = 1
+
+
 
 -- search settings
 opt.ignorecase = true 
