@@ -114,6 +114,11 @@ _G.packer_plugins = {
     path = "/Users/topgamer/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  ["gitlens.nvim"] = {
+    loaded = true,
+    path = "/Users/topgamer/.local/share/nvim/site/pack/packer/start/gitlens.nvim",
+    url = "https://github.com/cosmicthemethhead/gitlens.nvim"
+  },
   ["lspkind.nvim"] = {
     loaded = true,
     path = "/Users/topgamer/.local/share/nvim/site/pack/packer/start/lspkind.nvim",

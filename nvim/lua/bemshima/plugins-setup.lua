@@ -85,6 +85,9 @@ return packer.startup(function(use)
   use("jose-elias-alvarez/typescript.nvim") -- additional functionality for typescript server (e.g. rename file & update imports)
   use("onsails/lspkind.nvim")
 
+  -- GitLens
+  use "cosmicthemethhead/gitlens.nvim"
+  
 
   if packer_bootstrap then 
     require("packer").sync()
